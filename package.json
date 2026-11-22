@@ -1,0 +1,1 @@
+{"name":"follow-the-script","version":"1.0.0","description":"Lookahead word matcher that keeps a read-position pointer in sync with speech recognition output","main":"index.js","scripts":{"test":"node test.js"},"license":"MIT","homepage":"https://getvoiceteleprompter.com/"}
